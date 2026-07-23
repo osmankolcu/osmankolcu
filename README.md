@@ -35,10 +35,10 @@ Atatürk Üniversitesi Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim. Back
 ### 📫 Bana Ulaşın
 
 <div align="left">
-  <a href="https://linkedin.com/in/senin-linkedin-adresin" target="_blank">
+  <a href="https://www.linkedin.com/in/osman-kolcu-83301538b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:senin-eposta-adresin@gmail.com">
+  <a href="mailto:kolcuosman026@gmail.com">
     <img src="https://img.shields.io/badge/E_Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
