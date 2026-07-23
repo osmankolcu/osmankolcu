@@ -47,4 +47,4 @@ Atatürk Üniversitesi Bilgisayar Mühendisliği 3. Sınıf öğrencisiyim. Back
 
 ### 📈 GitHub İstatistiklerim
 
-<img src="[https://github-readme-stats.vercel.app/api?username=osmankolcu&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=osmankolcu&show_icons=true&theme=radical)" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=osmankolcu&show_icons=true&theme=radical" alt="GitHub Stats" />
